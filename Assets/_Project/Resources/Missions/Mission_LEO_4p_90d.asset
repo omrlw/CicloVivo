@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbe87ca29044b4acc86c078f6c0be100, type: 3}
+  m_Name: Mission_LEO_4p_90d
+  m_EditorClassIdentifier: Assembly-CSharp::MissionProfile
+  missionName: LEO 4p 90d
+  crewCount: 4
+  days: 90
+  baseAvailablePowerKW: 20
+  requiredExerciseHrsPerCrewPerDay: 2
+  leo: 1
+  lunar: 0
+  martian: 0

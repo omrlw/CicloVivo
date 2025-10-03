@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 495e1101cde314ba2b7fe59a285036d9, type: 3}
+  m_Name: Power_FuelCell
+  m_EditorClassIdentifier: Assembly-CSharp::ModuleDefinition
+  displayName: Fuel Cell
+  category: 4
+  footprintCells: {x: 2, y: 1}
+  massKg: 0
+  powerGenKW: 2.5
+  powerUseKW: 0.2
+  heatRejectKW: 0
+  heatLoadKW: 0
+  o2SupplyKgPerDay: 0
+  co2RemovalKgPerDay: 0
+  waterRecycleLPerDay: 1
+  crewCapacity: 0
+  requiresPressurePath: 1
